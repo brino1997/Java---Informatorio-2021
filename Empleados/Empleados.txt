@@ -1,0 +1,14 @@
+Clemente,Fernandez,11-08-1990,80111
+Raul,Gonzales,12-01-1945,57488
+Raul,Finos,26-02-1965,73491
+Consuelo,Santiago,08-10-1992,1615544
+Gabriela,Feijoo ,12-01-2000,55988
+Candido,Flores,29-09-1979,60420
+Julia,Ibarra,23-02-1983,39535
+Susana,Magro,19-03-1940,91159
+Eloisa,López,03-09-1970,166031
+Leocadia,Santana,12-05-1976,124664
+Ovidio,Franco,10-05-1986,115308
+Guillermo,Villagrande,10-05-1997,153201
+Jorge,Zalasar,10-05-1975,123308
+Agustin,Samudio,13-04-1995,123308
